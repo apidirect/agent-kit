@@ -1,0 +1,43 @@
+{
+  "name": "api-direct",
+  "displayName": "API Direct",
+  "version": "1.0.0",
+  "description": "63 ready-made research playbooks (lead generation, competitor and brand monitoring, recruiting, due diligence, reviews, local leads) on API Direct's hosted MCP server: real-time data from LinkedIn, X, Reddit, YouTube, TikTok, Instagram, Facebook, Threads, Bluesky, Google Maps, Amazon, Trustpilot, news, forums and the web.",
+  "author": {
+    "name": "API Direct",
+    "email": "support@apidirect.io"
+  },
+  "homepage": "https://apidirect.io",
+  "repository": "https://github.com/apidirect/agent-kit",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "mcp",
+    "agent-skills",
+    "social-media",
+    "social-listening",
+    "lead-generation",
+    "web-scraping",
+    "reddit",
+    "twitter",
+    "youtube",
+    "tiktok",
+    "instagram",
+    "google-maps",
+    "reviews",
+    "competitive-intelligence"
+  ],
+  "variables": {
+    "type": "object",
+    "properties": {
+      "API_DIRECT_API_KEY": {
+        "type": "string",
+        "title": "API Direct API key",
+        "description": "Your API Direct key (starts with ak_live_). Get one at https://apidirect.io/dashboard/keys"
+      }
+    },
+    "required": [
+      "API_DIRECT_API_KEY"
+    ]
+  }
+}

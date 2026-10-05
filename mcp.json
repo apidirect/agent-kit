@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "api-direct": {
+      "url": "https://apidirect.io/mcp",
+      "headers": {
+        "X-API-Key": "${API_DIRECT_API_KEY}"
+      }
+    }
+  }
+}

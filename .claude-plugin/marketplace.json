@@ -1,0 +1,25 @@
+{
+  "name": "api-direct",
+  "owner": {
+    "name": "API Direct",
+    "email": "support@apidirect.io",
+    "url": "https://apidirect.io"
+  },
+  "description": "The official API Direct plugin: research skills and the hosted MCP server.",
+  "plugins": [
+    {
+      "name": "api-direct",
+      "source": "./",
+      "description": "63 ready-made research playbooks (lead generation, competitor and brand monitoring, recruiting, due diligence, reviews, local leads) on API Direct's hosted MCP server: real-time data from LinkedIn, X, Reddit, YouTube, TikTok, Instagram, Facebook, Threads, Bluesky, Google Maps, Amazon, Trustpilot, news, forums and the web.",
+      "category": "data",
+      "tags": [
+        "mcp",
+        "agent-skills",
+        "social-media",
+        "social-listening",
+        "lead-generation",
+        "web-scraping"
+      ]
+    }
+  ]
+}
