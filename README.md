@@ -191,7 +191,7 @@ Then connect the MCP server at `https://apidirect.io/mcp` with your key in an `X
 - Status: https://apidirect.io/status
 - Support: support@apidirect.io
 
-This repository is generated from API Direct's skill library (version 1.0.0). To report a problem with a skill, email support@apidirect.io or open an issue.
+This repository is generated from API Direct's skill library (version 1.0.1). To report a problem with a skill, email support@apidirect.io or open an issue.
 
 ## License
 
