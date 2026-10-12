@@ -9,7 +9,7 @@
   A Claude Code plugin, a Gemini CLI extension and a Cursor plugin in one repo.
 </p>
 
-Each skill is a playbook that chains API Direct's real-time data tools with the right filters to reach a business outcome: finding leads, catching a competitor's unhappy customers, monitoring a brand, mining reviews, sourcing creators or vetting a company. The data comes from LinkedIn, X, Reddit, YouTube, TikTok, Instagram, Facebook, Threads, Bluesky, Truth Social, Google Maps, Amazon, Trustpilot, news, forums and web search, all through one API key.
+Each skill is a playbook that chains API Direct's real-time data tools with the right filters to reach a business outcome: finding leads, catching a competitor's unhappy customers, monitoring a brand, mining reviews, sourcing creators or vetting a company. The data comes from LinkedIn, X, Reddit, YouTube, TikTok, Instagram, Facebook, Threads, Bluesky, Substack, Truth Social, Google Maps, Amazon, Trustpilot, news, forums and web search, all through one API key.
 
 Installing the kit also connects the MCP server itself, so your agent can call any API Direct tool directly as well as run the skills. Every tool is read-only.
 
@@ -191,7 +191,7 @@ Then connect the MCP server at `https://apidirect.io/mcp` with your key in an `X
 - Status: https://apidirect.io/status
 - Support: support@apidirect.io
 
-This repository is generated from API Direct's skill library (version 1.0.1). To report a problem with a skill, email support@apidirect.io or open an issue.
+This repository is generated from API Direct's skill library (version 1.0.2). To report a problem with a skill, email support@apidirect.io or open an issue.
 
 ## License
 

@@ -10,7 +10,7 @@
     {
       "name": "api-direct",
       "source": "./",
-      "description": "63 ready-made research playbooks (lead generation, competitor and brand monitoring, recruiting, due diligence, reviews, local leads) on API Direct's hosted MCP server: real-time data from LinkedIn, X, Reddit, YouTube, TikTok, Instagram, Facebook, Threads, Bluesky, Google Maps, Amazon, Trustpilot, news, forums and the web.",
+      "description": "63 ready-made research playbooks (lead generation, competitor and brand monitoring, recruiting, due diligence, reviews, local leads) on API Direct's hosted MCP server: real-time data from LinkedIn, X, Reddit, YouTube, TikTok, Instagram, Facebook, Threads, Bluesky, Substack, Google Maps, Amazon, Trustpilot, news, forums and the web.",
       "category": "data",
       "tags": [
         "mcp",
